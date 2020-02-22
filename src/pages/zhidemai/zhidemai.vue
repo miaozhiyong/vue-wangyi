@@ -1,5 +1,5 @@
 <template>
-    <div>zhidemau</div>
+    <div>值得买</div>
 </template>
 
 <script>

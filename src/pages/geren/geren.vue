@@ -1,5 +1,5 @@
 <template>
-    <div>geren</div>
+    <div>个人</div>
 </template>
 
 <script>
