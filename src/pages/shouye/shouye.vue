@@ -10,10 +10,8 @@
         <div class="wrapper" ref="bscroll">
             <ul class="content">
                 <li class="active">推荐</li>
-
-                <!--<li v-for="(item,index) in address" :key='index'>{{item.name}}</li>-->
             </ul>
-            <!-- 这里可以放一些其它的 DOM，但不会影响滚动 -->
+
         </div>
 
         <div class="swiper-container">
